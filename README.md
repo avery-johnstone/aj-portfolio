@@ -1,13 +1,15 @@
-# aj-portfolio
-Welcome to my personal portfolio! I’m a third-year CSE undergraduate at Bangladesh University of Professionals and a Microsoft Student Ambassador (Beta).
+# Avery Johnstone
+Welcome to my personal portfolio! I’m a recently graduated student of Vancouver Film School specializing in writing for film, television, and video games. I am also a self taught textile artist specializing in crochet and a jewelery maker too.
 
 ## About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
+INSERT BIO
 
 ## Skills
-- Cloud Computing
-- GitHub & Git
-- Microsoft Power Platform
+- Screenwriting
+- Stagewriting
+- Unreal Engine 5
+- Organization
+- Leadership
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/username) or [GitHub](https://github.com/username).
+You can reach me at [LinkedIn](https://linkedin.com/in/avery-johnstone-176504358), [Instagram](https://www.instagram.com/http.aj_stone?igsh=OW00d3Z0NWw3ZnR1), or [Facebook](https://www.facebook.com/avery.johnstone.75/)
